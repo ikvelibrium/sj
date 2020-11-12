@@ -1,0 +1,48 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+.colon {
+    background-color:#00f;
+    width: 400px;
+    font-size: xx-large;
+    height: 960px;
+    vertical-align: top;
+    line-height: 100px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+.complect {
+background-color: red;
+width: 390px;
+
+height: 190px;
+margin: 5px 5px;
+display: inline-block;
+}
+
+.power {
+background-color: black;
+width: 390px;
+height: 460px;
+display: inline-block;
+margin: 5px 5px;
+}
+.armor {
+    background-color: black;
+    width: 185px;
+    height: 190px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+.years {
+    background-color: red;
+width: 390px;
+height: 320px;
+display: inline-block;
+margin: 5px 5px;
+}
+.b {
+text-align: end;    
+}
