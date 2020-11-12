@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+.container {
+    height: 90vh;
+    width: 90vh;
+    background-color: seagreen;
+    margin: auto;
+    margin: 5vw auto;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center   ; 
+/*
+выравиание флекс элементов вдоль основной оси 
+flex start первый элемент у начала оси 
+flex end последний элемент у окончания оси  
+*/
+align-items: center;
+}
+.card {
+    padding: 20px;
+    font: 30px / 1 sans-serif;
+    border-radius: 50%;
+    background-color: silver;
+    color: seagreen;
+    text-align: center;
+    cursor: pointer;
+   
+}
+.card:hover {
+    background-color: springgreen;
+}
